@@ -1,2 +1,2 @@
-# Blender-project-stairs
-Stairs made in blender
+# Blender-projects
+Many projects made in blender
